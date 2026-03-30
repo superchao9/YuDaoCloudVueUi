@@ -278,7 +278,7 @@ let notice = reactive<Notice[]>([])
 const getNotice = async () => {
   const data = [
     {
-      title: '系统支持 JDK 8/17/21，Vue 2/3',
+      title: '哈哈系统支持 JDK 8/17/21，Vue 2/3',
       type: '技术兼容性',
       keys: ['JDK', 'Vue'],
       date: new Date()
